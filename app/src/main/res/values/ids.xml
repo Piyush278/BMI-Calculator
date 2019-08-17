@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textno" type="id" />
+    <item name="img" type="id" />
+    <item name="layout" type="id" />
+    <item name="tv2" type="id" />
+    <item name="txtweight" type="id" />
+</resources>
